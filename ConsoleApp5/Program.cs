@@ -2,6 +2,7 @@
 // The are set of instrutions 
 // eg
 // it fas name "add" , on left is return type . and on RHS in bracket (parameters)
+Console.WriteLine($"Hello .Net Developers");
  double Add (double a, double b) //here int is return type, and it has two parameters a&b (Arguments)
 {
     double temp = a + b;
